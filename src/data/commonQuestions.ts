@@ -1,0 +1,8 @@
+export const commonQuestions = {
+  'what is the mcu': 'The Marvel Cinematic Universe (MCU) is a shared universe centered on superhero films and TV series produced by Marvel Studios. It began with Iron Man in 2008 and has become the highest-grossing film franchise of all time.',
+  'infinity stones': 'The Infinity Stones are six immensely powerful gems that control different aspects of existence: Space (blue), Reality (red), Power (purple), Mind (yellow), Time (green), and Soul (orange). When united in the Infinity Gauntlet, they grant the user godlike powers.',
+  'thanos snap': 'Known as "The Snap" or "The Blip," this event occurred when Thanos gathered all six Infinity Stones and wiped out half of all life in the universe. The Avengers later reversed this in Endgame.',
+  'avengers team': 'The Avengers are Earth\'s Mightiest Heroes, originally consisting of Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye. The team has had many members over the years and has saved Earth multiple times.',
+  'multiverse': 'The Multiverse is a collection of alternate realities and timelines. It became a major focus in Phase 4 of the MCU, particularly in films like Doctor Strange in the Multiverse of Madness and Spider-Man: No Way Home.',
+  'wakanda': 'Wakanda is a highly advanced African nation that poses as a third-world country. It is the most technologically advanced nation on Earth, thanks to its reserves of vibranium, and is home to the Black Panther.'
+};
